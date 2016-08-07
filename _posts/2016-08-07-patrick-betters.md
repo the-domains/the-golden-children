@@ -1,13 +1,13 @@
 ---
-description: Patrick Betters
-dateModified: '2016-08-07T23:44:40.602Z'
-datePublished: '2016-08-07T23:44:55.319Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-07T23:44:56.906Z'
 sourcePath: _posts/2016-08-07-patrick-betters.md
+author: []
+via: {}
+dateModified: '2016-08-07T23:44:56.698Z'
+title: ''
+publisher: {}
+description: Patrick Betters
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
