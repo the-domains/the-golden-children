@@ -1,4 +1,4 @@
-typography_spectrum: 0.42177418735809624
+typography_spectrum: 0.35805003601126373
 color:
   brandStrength: 0.7573848764877766
   lightness: 0.5365422866307199
@@ -10,7 +10,7 @@ color:
     - '#41B8BC'
     - '#C4903D'
     - '#E1AE5B'
-layout_spectrum: 0.11689165839925408
+layout_spectrum: 0.7655187046620995
 author:
   name: Patrick Betters
   email: ''
