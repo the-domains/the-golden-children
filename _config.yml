@@ -1,4 +1,3 @@
-layout_spectrum: 0.9488493967801332
 typography_spectrum: 0.5653142423834652
 color:
   brandStrength: 0.7573848764877766
@@ -11,5 +10,7 @@ color:
     - '#41B8BC'
     - '#C4903D'
     - '#E1AE5B'
+layout_spectrum: 0.9488493967801332
 name: The Golden Children
+title: The Golden Children
 description: Community Created by Patrick Betters
