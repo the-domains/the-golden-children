@@ -1,4 +1,4 @@
-typography_spectrum: 0.5653142423834652
+typography_spectrum: 0.42177418735809624
 color:
   brandStrength: 0.7573848764877766
   lightness: 0.5365422866307199
@@ -10,11 +10,11 @@ color:
     - '#41B8BC'
     - '#C4903D'
     - '#E1AE5B'
-layout_spectrum: 0.9488493967801332
+layout_spectrum: 0.11689165839925408
 author:
-  name: ''
-  email: ''
-  url: ''
+  name: Bradley Blackburn
+  email: brad@bapictures.com
+  url: BApictures.com
 name: The Golden Children
 title: The Golden Children
 description: Childhood Cancer Community Created by Patrick Betters
