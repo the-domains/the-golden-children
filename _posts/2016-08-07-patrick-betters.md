@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-07T23:44:56.906Z'
+datePublished: '2016-08-07T23:45:33.146Z'
 sourcePath: _posts/2016-08-07-patrick-betters.md
 author: []
 via: {}
-dateModified: '2016-08-07T23:44:56.698Z'
+dateModified: '2016-08-07T23:45:32.565Z'
 title: ''
 publisher: {}
 description: Patrick Betters
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: patrick-betters/index.html
+_type: Blurb
 
 ---
 Patrick Betters
