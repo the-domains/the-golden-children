@@ -1,16 +1,16 @@
-typography_spectrum: 0.23383663455024362
+typography_spectrum: 0.45490571251139045
 color:
-  brandStrength: 0.9107595726381987
-  lightness: 0.9110370536800474
-  saturation: 0.04935910785570741
-  rhythmicContrast: 0.9756908463314176
+  brandStrength: 0.918824459426105
+  lightness: 0.5082019267138094
+  saturation: 0.9900548821315169
+  rhythmicContrast: 0.7642044597305357
   brandColors:
-    - '#37353A'
-    - '#C7934A'
-    - '#3B7082'
-    - '#1D1D27'
-    - '#A3773A'
-layout_spectrum: 0.5790137641597539
+    - '#C4D0DC'
+    - '#EBC982'
+    - '#708DB5'
+    - '#FEFEFE'
+    - '#E1EBF5'
+layout_spectrum: 0.5874819753225893
 author:
   name: Patrick Betters
   email: ''
