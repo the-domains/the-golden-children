@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Golden Children]]></title>
-        <description><![CDATA[The Golden Children]]></description>
+        <title><![CDATA[Childhood Cancer Community Created by Patrick Betters]]></title>
+        <description><![CDATA[Childhood Cancer Community Created by Patrick Betters]]></description>
         <link>https://thegrid.ai/the-golden-children/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 03:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 04:03:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-golden-children/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Patrick Betters speaking at Children's Circle of Care Event in San Diego]]></title>
@@ -43,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Speaking for Childhood Cancer Awareness for the Friends of Scott Foundation]]></title>
-            <description><![CDATA[<article><h1>Speaking for Childhood Cancer Awareness for the Friends of Scott Foundation</h1><p>Uploaded by Patrick Betters on 2011-10-04.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Speaking for Childhood Cancer Awareness for the Friends of Scott Foundation</h1><p>Uploaded by Patrick Betters on 2011-10-04.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/608f81448a03eb664b33574ee518c3a6/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FIM5IdTS5EDA%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=IM5IdTS5EDA</link>
             <guid isPermaLink="false">8fbb522a-a015-41b1-90d5-e7883972b9d6</guid>
             <pubDate>Mon, 08 Aug 2016 03:00:28 GMT</pubDate>
@@ -68,13 +68,6 @@
             <link>http://www.sandiegouniontribune.com/news/2006/nov/23/no-splitting-hairs-chaparral-wrestler-battles/</link>
             <guid isPermaLink="false">88c2706c-05f5-4b6f-9bd5-280419f8c1ae</guid>
             <pubDate>Mon, 08 Aug 2016 02:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Play: Speaking For Radys Childrens Hospital - Childhood Cancer Story]]></title>
-            <description><![CDATA[<article><h1>Play: Speaking For Radys Childrens Hospital - Childhood Cancer Story</h1><p>Speaking For Radys Childrens Hospital - Childhood Cancer Story</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ba70db8e4aa54f60ed49157bb58400a/croprotate.jpg?cropheight=289&cropwidth=480&degrees=0&input=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FSBWti3yV3VA%2Fhqdefault.jpg&x=0&y=31"></article>]]></description>
-            <link>http://zmp3.xyz/play/speaking-for-radys-childrens-hospital-childhood-cancer-story/SBWti3yV3VA.html</link>
-            <guid isPermaLink="false">c8b34a15-7326-403c-88dd-0f528ae4d637</guid>
-            <pubDate>Mon, 08 Aug 2016 02:35:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
