@@ -20,5 +20,8 @@ navigation:
   - name: Patrick Betters
     id: 3166d790-6296-4047-a004-da198e3d452a
     type: content
+  - name: Facebook
+    url: 'https://www.facebook.com/patrickbetters'
+    type: external
 title: Childhood Cancer Community Created by Patrick Betters
 description: Childhood Cancer Community Created by Patrick Betters
