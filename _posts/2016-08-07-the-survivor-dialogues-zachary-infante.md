@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-07T23:19:39.575Z'
+datePublished: '2016-08-08T02:01:40.588Z'
 sourcePath: _posts/2016-08-07-the-survivor-dialogues-zachary-infante.md
 author: []
 via: {}
-dateModified: '2016-08-07T23:19:38.619Z'
+dateModified: '2016-08-08T02:01:39.994Z'
 title: 'The Survivor Dialogues: Zachary Infante'
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   full time, it has been a process. From day one, Zach and I have been close
   despite living on opposite coasts. He is a man I respect, and knew would take
   this seriously and really open up, and he did, and here it is…
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
