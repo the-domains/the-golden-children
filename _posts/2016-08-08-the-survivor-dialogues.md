@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-08T03:23:36.728Z'
+sourcePath: _posts/2016-08-08-the-survivor-dialogues.md
+author: []
+via: {}
+dateModified: '2016-08-08T03:23:36.152Z'
+title: 'The Survivor Dialogues: Kevin'
+publisher: {}
 description: >-
   I was on Facebook recently and saw an article on the Huffington Post from a
   young adult cancer survivor that is making his mark in the cancer world. His
@@ -17,21 +24,14 @@ description: >-
   Fortunately, I took a chance and reached out and the results couldn’t have
   made me more proud of this project. I am excited to say that this is only the
   beginning.
-dateModified: '2016-08-08T03:22:50.935Z'
-datePublished: '2016-08-08T03:22:52.352Z'
-title: The Survivor Dialogues
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-08-the-survivor-dialogues.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# The Survivor Dialogues
+# The Survivor Dialogues: Kevin
 
 I was on Facebook recently and saw an article on the Huffington Post from a young adult cancer survivor that is making his mark in the cancer world. His words really had an affect on me in a way not many people have, and I knew I had to reach out. I had an idea for a project for quite some time now, something I hadn't seen before, but something I knew was necessary for myself as well as many other teen and young adult survivors. The idea was simple yet powerful; to create a conversation between myself and another survivor, and that conversation would be public. It would be a conversation open to the world, and it would be open to the world for the sole reason of helping people understand. Whether it be helping someone who hasn't been through the cancer tragedy themselves but wants to understand a little bit more, or a survivor who has felt isolated in a public place at one time or another and just wants to know if anyone else feels the same way. I wanted to create this and just wasn't sure who would be open enough to make it come into fruition. Fortunately, I took a chance and reached out and the results couldn't have made me more proud of this project. I am excited to say that this is only the beginning.
 
