@@ -23,5 +23,8 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/patrickbetters'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/patrickbetters/'
+    type: external
 title: Childhood Cancer Community Created by Patrick Betters
 description: Childhood Cancer Community Created by Patrick Betters
