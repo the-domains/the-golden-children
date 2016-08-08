@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-08T02:24:07.317Z'
+datePublished: '2016-08-08T02:37:12.074Z'
 sourcePath: _posts/2016-08-07-the-survivor-dialogues-zachary-infante.md
 author: []
 via: {}
-dateModified: '2016-08-08T02:24:06.871Z'
+dateModified: '2016-08-08T02:37:11.722Z'
 title: 'The Survivor Dialogues: Zachary Infante'
 publisher: {}
 description: >-
@@ -49,7 +49,8 @@ For the entire time I've known you, you have always been very outgoing and expre
 
 **Zach**: Wow, Patrick, this is tough one purely due to the way cancer has effected my self-confidence. For years before diagnosis and during treatment I felt a strong sense of pride and resilience but as I began to speak on behalf of survivors an overwhelming fear and insecurity began to set in. I fell into a depression and found that no matter how many events I did on behalf of fellow survivors I still was not good enough to have lived. I'd seen so many friends die and I had convinced myself that I was unworthy of the forum and influence that they as speakers once had in the survivor community. It wasn't until losing our friend and Sunshine Kids Spokes Kid James Ragan that I began to strap up my boots and rise above the fear and self-doubt. Like you Patrick, James had built a platform for survivors to share their experiences and I feel tied to the commitments of fellow survivors. With this inspiration I've found a truer sense of authenticity in spite of death and the feeling of inadequacy, accepting that the only truth is in the now. Presently, the resilience that I see in youth battling disease, those surviving in poverty, and the ailing elderly charges my purpose to live. Cancer sucks and I still feel sad sometimes, but I'm building a trigger process to turn my mood around while maintaining a community of friends and support to reinvigorate the self-confidence that I yet again have faith in.
 
-**Patrick**: Survivor's guilt is something I'm all too familiar with. Seeing families that have lost a child, or children and teens who have lost siblings, and just about everybody I see that I feel like may have had a harder time than I did; they all give me this bottomless feeling of guilt. It's the opposite of the typical "Why Me?" questions you hear, I ask "why me" as a question of "why did I survive and so many others didn't?" It is something I've worked hard to get through and it has pushed me to feel an urgency to continue to help people in any capacity. Being a survivor has come with many hardships and hard feelings but after enduring so much, here we are, alive to share our stories and the stories of so many beautiful souls that will never be forgotten. We are here to help the ones yet to go through, and are currently going through it, know that they are not alone.  
+**Patrick**: Survivor's guilt is something I'm all too familiar with. Seeing families that have lost a child, or children and teens who have lost siblings, and just about everybody I see that I feel like may have had a harder time than I did; they all give me this bottomless feeling of guilt. It's the opposite of the typical "Why Me?" questions you hear, I ask "why me" as a question of "why did I survive and so many others didn't?" It is something I've worked hard to get through and it has pushed me to feel an urgency to continue to help people in any capacity. Being a survivor has come with many hardships and hard feelings but after enduring so much, here we are, alive to share our stories and the stories of so many beautiful souls that will never be forgotten. We are here to help the ones yet to go through, and are currently going through it, know that they are not alone.
+
 Now, as a survivor, what would you tell someone who was just diagnosed?
 
 **Zach**: There's so much I always want to say but in short, I'd ask them to close their eyes and look within themselves for prime dreaming. Give trust to those who earn it, stay skeptical and allow yourself to change your own mind. Most of all, be your own friend, love your body, and write your own story.
@@ -60,7 +61,7 @@ It is so important to write your own story and I'm so glad you said that. Brothe
 
 **Zach**: Patrick, I've appreciated your candor and persistence toward building a platform for fellow survivors to express their experiences. Thank you for introducing us to so many perspectives and for sharing your story with the world. From your film to the unending outreach, you continue to motivate and congregate our community.
 
-To those who've read this post, thank you for your time. I encourage anyone who is fighting cancer, or struggling to find your place in the world after treatment, to work on surviving today. Dream, wish, and hope for tomorrow, but love for today. Do your homework, learn something new everyday, and give your voice a chance. Oh, and remember to brush your teeth and floss too ( :P ). If your teeth are crooked like mine, remember there's no reason to hide them! Let the sunshine on you no matter how much hair you have on your head, what color your skin is, or the way your teeth sit. 
+To those who've read this post, thank you for your time. I encourage anyone who is fighting cancer, or struggling to find your place in the world after treatment, to work on surviving today. Dream, wish, and hope for tomorrow, but love for today. Do your homework, learn something new everyday, and give your voice a chance. Oh, and remember to brush your teeth and floss too ( :P ). If your teeth are crooked like mine, remember there's no reason to hide them! Let the sunshine on you no matter how much hair you have on your head, what color your skin is, or the way your teeth sit.
 
 You're worth it!
 
