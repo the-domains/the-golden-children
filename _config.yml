@@ -1,16 +1,16 @@
-typography_spectrum: 0.45490571251139045
+typography_spectrum: 0.19890745938755572
 color:
-  brandStrength: 0.918824459426105
-  lightness: 0.5082019267138094
-  saturation: 0.9900548821315169
-  rhythmicContrast: 0.7642044597305357
+  brandStrength: 0.2572981708217412
+  lightness: 0.06015636376105249
+  saturation: 0.5779325189068913
+  rhythmicContrast: 0.03379766154102981
   brandColors:
-    - '#C4D0DC'
-    - '#EBC982'
-    - '#708DB5'
-    - '#FEFEFE'
-    - '#E1EBF5'
-layout_spectrum: 0.5874819753225893
+    - '#E7E7E7'
+    - '#94DBD3'
+    - '#41B8BC'
+    - '#C4903D'
+    - '#E1AE5B'
+layout_spectrum: 0.43860697210766375
 author:
   name: Patrick Betters
   email: ''
@@ -20,5 +20,5 @@ navigation:
   - name: Patrick Betters
     id: 3166d790-6296-4047-a004-da198e3d452a
     type: content
-title: The Golden Children
+title: Childhood Cancer Community Created by Patrick Betters
 description: Childhood Cancer Community Created by Patrick Betters
