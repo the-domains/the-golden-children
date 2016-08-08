@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Childhood Cancer Community Created by Patrick Betters]]></title>
-        <description><![CDATA[Childhood Cancer Community Created by Patrick Betters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Golden Children]]></title>
+        <description><![CDATA[The Golden Children]]></description>
+        <link>https://thegrid.ai/the-golden-children/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 23:59:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Aug 2016 00:11:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-golden-children/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Click here to support Camp for Kaleah by Marriah Peltzer]]></title>
+            <description><![CDATA[<article><h1>Click here to support Camp for Kaleah by Marriah Peltzer</h1><p>Please help send Kaleah to camp! This is a week long all day sports camp. This camp is very unique and special, and because of Kaleah's needs as well as the location it is going to be quite costly.</p><img src="http://funds.gfmcdn.com/12730111_1467838858.4915.jpg"></article>]]></description>
+            <link>https://www.gofundme.com/2d3gzc2k</link>
+            <guid isPermaLink="false">77c55dc5-fa77-4279-a0bd-7db39abaaf08</guid>
+            <pubDate>Mon, 08 Aug 2016 00:10:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scars of Hope (Short Doc)]]></title>
             <description><![CDATA[<article><h1>Scars of Hope (Short Doc)</h1><p>To be permanently marked with a scar, you must first suffer a wound. However physically or mentally traumatic this process may be, it is important to remember, that with suffering and pain comes strength and enlightenment. The most hopeless and hurtful moments bring life's greatest opportunities for advancement.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/969c872d5984242b8f7777a42812b8b8/noop.jpg?input=http%3A%2F%2Fbapictures.com%2Fwp-content%2Fuploads%2F2013%2F06%2FScars-of-Hope-Thumbnail2.jpg"></article>]]></description>
