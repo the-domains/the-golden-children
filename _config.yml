@@ -1,15 +1,15 @@
-typography_spectrum: 0.19890745938755572
+typography_spectrum: 0.020477144746109843
 color:
-  brandStrength: 0.2572981708217412
-  lightness: 0.06015636376105249
-  saturation: 0.5779325189068913
-  rhythmicContrast: 0.03379766154102981
+  brandStrength: 0.0647648002486676
+  lightness: 0.5978007614612579
+  saturation: 0.23604834149591625
+  rhythmicContrast: 0.9333600522950292
   brandColors:
-    - '#E7E7E7'
-    - '#94DBD3'
-    - '#41B8BC'
-    - '#C4903D'
-    - '#E1AE5B'
+    - '#C4D0DC'
+    - '#EBC982'
+    - '#708DB5'
+    - '#FEFEFE'
+    - '#E1EBF5'
 layout_spectrum: 0.43860697210766375
 author:
   name: Patrick Betters
